@@ -8,8 +8,6 @@ function inchToFeet(inch) {
 const givenValue = inchToFeet(13);
 console.log(givenValue);
 
-// console.log("So, The inch given will be in ", givenValue, "feet");
-
 function mileToMeter(mileValue) {
   const value = mileValue * 1609.344;
   return value;
