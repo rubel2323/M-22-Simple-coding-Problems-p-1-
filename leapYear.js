@@ -7,3 +7,5 @@ function leapYear(year) {
     return false;
   }
 }
+const givenyear = leapYear(1900);
+console.log(givenyear);
